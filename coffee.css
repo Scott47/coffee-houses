@@ -1,0 +1,21 @@
+
+.pageHeader {
+    text-align: center;
+    padding: 1em;
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.shop {
+    display: block;
+    flex-basis: 25%;
+    flex-flow: column;
+    border-color: black;
+    border-style: dotted;
+}
